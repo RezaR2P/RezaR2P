@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm Reza Ramdan Permana!</h1>
 
 <p align="center">
-I am a passionate <b>Fullstack Developer</b> with a strong focus on building interactive interfaces and efficient backend systems.<br>
-Always eager to explore new technologies and expand my knowledge.
+  I am a passionate <b>Fullstack Developer</b> with a strong focus on building interactive interfaces and efficient backend systems.<br>
+  Always eager to explore new technologies and expand my knowledge.
 </p>
 
 ---
@@ -24,80 +24,76 @@ I believe that hobbies are not just a form of entertainment but also a way to le
 
 ---
 
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=RezaR2P.RezaR2P&"  />
+  <br/>
+  <b>Welcome to my GitHub profile! 🚀</b>
 </div>
 
-###
+---
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="60" alt="react logo"  />
+  <b>Tech Stack</b><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />✨
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />🟨
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />🐧
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />🐘
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />🔶
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />🎨
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />🌬️
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />🌳
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />🚂
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />⚛️
 </div>
 
-###
+---
 
 <div align="center">
+  <b>Connect with me</b><br>
   <a href="linkedin.com/in/reza-ramdan-permana-45b310222/?skipRedirect=true" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /> 💼
   </a>
   <a href="discordapp.com/users/980657950517514321" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  /> 💬
   </a>
   <a href="https://www.instagram.com/sjhdskd/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  /> 📸
   </a>
 </div>
 
-###
-
-<img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXFjams0Z3B1NnB5YXZrYmk3bm03NDd1d3E1NjE0ZjF4YjhwdW95cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RezaR2P&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
-
-###
+---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=RezaR2P&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXFjams0Z3B1NnB5YXZrYmk3bm03NDd1d3E1NjE0ZjF4YjhwdW95cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" height="200" alt="penguin coding gif" />
 </div>
 
-###
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RezaR2P&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=RezaR2P&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+        <br/>📊 <b>My GitHub Stats</b>
+      </td>
+      <td>
+        <img src="https://streak-stats.demolab.com?user=RezaR2P&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+        <br/>🔥 <b>GitHub Streak</b>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RezaR2P&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+        <br/>🌐 <b>Top Languages</b>
+      </td>
+    </tr>
+  </table>
 </div>
 
-###
+---
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RezaR2P/RezaR2P/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RezaR2P/RezaR2P/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RezaR2P/RezaR2P/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RezaR2P/RezaR2P/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RezaR2P/RezaR2P/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RezaR2P/RezaR2P/output/pacman-contribution-graph.svg"> 🕹️
+  </picture>
+</div>
