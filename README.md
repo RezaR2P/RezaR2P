@@ -1,4 +1,34 @@
-<h1 align="center"> Hi, I'm Reza Ramdan Permana. </h1>
+<h1 align="center">👋 Hi, I'm Reza Ramdan Permana!</h1>
+
+<p align="center">
+I am a passionate <b>Fullstack Developer</b> with a strong focus on building interactive interfaces and efficient backend systems.<br>
+Always eager to explore new technologies and expand my knowledge.
+</p>
+
+---
+
+### 🎯 Goals
+My aim is to become a skilled and innovative developer, creating applications that not only function seamlessly but also deliver an optimal user experience.
+
+---
+
+### 🧑‍💻 About Me
+In my free time, I enjoy playing games to unwind and sharpen my strategic thinking. I also love reading books on personal development and technology, which help me grow both professionally and personally.
+
+### 🎮 Fun Fact
+I once got so caught up in a "marathon" of studying and gaming that I completely lost track of time—playing and learning non-stop until I realized it was already morning! My phone alarm went off, and that’s when I finally noticed I had skipped both sleep and meals. But hey, at least I completed an important mission in the game and learned something new along the way! 😅
+
+I believe that hobbies are not just a form of entertainment but also a way to learn and grow as an individual. Oh, and one more thing—I live by this motto:
+
+> "Life is like a game. Sometimes the challenges are tough, but there’s always a way to win (or at least, a save point)." 😄
+
+---
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=RezaR2P.RezaR2P&"  />
+</div>
 
 ###
 
@@ -40,12 +70,29 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=RezaR2P&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=RezaR2P&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+<img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXFjams0Z3B1NnB5YXZrYmk3bm03NDd1d3E1NjE0ZjF4YjhwdW95cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=RezaR2P&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=RezaR2P&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RezaR2P&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RezaR2P/RezaR2P/output/pacman-contribution-graph-dark.svg">
@@ -54,14 +101,3 @@
 </picture>
 
 ###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/.">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=.&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-
-
