@@ -34,29 +34,49 @@ I believe that hobbies are not just a form of entertainment but also a way to le
 
 <div align="center">
   <b>Tech Stack</b><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />✨
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />🟨
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />🐧
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />🐘
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />🔶
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />🎨
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />🌬️
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />🌳
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />🚂
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />⚛️
+  <span style="display:inline-block; margin:0 5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" /> ✨
+  </span>
+  <span style="display:inline-block; margin:0 5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" /> 🟨
+  </span>
+  <span style="display:inline-block; margin:0 5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" /> 🐧
+  </span>
+  <span style="display:inline-block; margin:0 5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" /> 🐘
+  </span>
+  <span style="display:inline-block; margin:0 5px;">
+    <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo" /> 🔶
+  </span>
+  <span style="display:inline-block; margin:0 5px;">
+    <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" /> 🎨
+  </span>
+  <span style="display:inline-block; margin:0 5px;">
+    <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" /> 🌬️
+  </span>
+  <span style="display:inline-block; margin:0 5px;">
+    <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" /> 🌳
+  </span>
+  <span style="display:inline-block; margin:0 5px;">
+    <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" /> 🚂
+  </span>
+  <span style="display:inline-block; margin:0 5px;">
+    <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo" /> ⚛️
+  </span>
 </div>
 
 ---
 
 <div align="center">
   <b>Connect with me</b><br>
-  <a href="linkedin.com/in/reza-ramdan-permana-45b310222/?skipRedirect=true" target="_blank">
+  <a href="linkedin.com/in/reza-ramdan-permana-45b310222/?skipRedirect=true" target="_blank" style="display:inline-block; margin:0 5px;">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /> 💼
   </a>
-  <a href="discordapp.com/users/980657950517514321" target="_blank">
+  <a href="discordapp.com/users/980657950517514321" target="_blank" style="display:inline-block; margin:0 5px;">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  /> 💬
   </a>
-  <a href="https://www.instagram.com/sjhdskd/" target="_blank">
+  <a href="https://www.instagram.com/sjhdskd/" target="_blank" style="display:inline-block; margin:0 5px;">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  /> 📸
   </a>
 </div>
