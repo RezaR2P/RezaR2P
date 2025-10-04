@@ -34,6 +34,7 @@ I believe that hobbies are not just a form of entertainment but also a way to le
 
 <div align="center">
   <b>Tech Stack</b><br>
+  <span style="display:block; height:10px;"></span>
   <span style="display:inline-block; margin:0 5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" /> ✨
   </span>
@@ -70,10 +71,11 @@ I believe that hobbies are not just a form of entertainment but also a way to le
 
 <div align="center">
   <b>Connect with me</b><br>
-  <a href="linkedin.com/in/reza-ramdan-permana-45b310222/?skipRedirect=true" target="_blank" style="display:inline-block; margin:0 5px;">
+  <span style="display:block; height:10px;"></span>
+  <a href="https://www.linkedin.com/in/reza-ramdan-permana-45b310222/" target="_blank" style="display:inline-block; margin:0 5px;">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /> 💼
   </a>
-  <a href="discordapp.com/users/980657950517514321" target="_blank" style="display:inline-block; margin:0 5px;">
+  <a href="https://discordapp.com/users/980657950517514321" target="_blank" style="display:inline-block; margin:0 5px;">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  /> 💬
   </a>
   <a href="https://www.instagram.com/sjhdskd/" target="_blank" style="display:inline-block; margin:0 5px;">
