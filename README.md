@@ -98,10 +98,10 @@ I believe that hobbies are not just a form of entertainment but also a way to le
         <img src="https://github-readme-stats.vercel.app/api?username=RezaR2P&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
         <br/>📊 <b>My GitHub Stats</b>
       </td>
-      <td>
+      <!-- <td>
         <img src="https://streak-stats.demolab.com?user=RezaR2P&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
         <br/>🔥 <b>GitHub Streak</b>
-      </td>
+      </td> -->
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RezaR2P&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
         <br/>🌐 <b>Top Languages</b>
